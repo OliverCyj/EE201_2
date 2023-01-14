@@ -8,5 +8,5 @@ Hello, this is Yujie Cao, you can also call me oliver. I am an Junior student in
 In my spare time, I'd like to build up some Robot modules and listen music. Sometimes I will Do some basic baking.
 
 ## Conclusion
-In the end, hope all of us can have a wonderful quarter and enjoy this course
+In the end, hope all of us can have a wonderful quarter and enjoy this course.
 
